@@ -36,14 +36,6 @@ SDLC &nbsp;•&nbsp; Machine Learning Algorithms
 Official website for UC Irvine’s largest women-centric hackathon. Supported registrations, live updates, and event resources.  
 🎉 Used by 300+ participants and updated live during the event.
 
-### [Project 2 – *Project Name Here*](#)
-*Description: Short description of the project, its purpose, and your role.*  
-**Tech Used:** Tech1, Tech2, Tech3
-
-### [Project 3 – *Project Name Here*](#)
-*Description: Short description of the project.*  
-**Tech Used:** Tech1, Tech2
-
 ---
 
 ## 🌊 Extracurriculars & Interests
