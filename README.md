@@ -28,16 +28,24 @@ SDLC &nbsp;•&nbsp; Machine Learning Algorithms
 ## 🚀 Key Projects
 
 ### [venushacks-official-website](https://github.com/WICS-UCI/venushacks)
-**Tools:** HTML/CSS, JavaScript, React  
-Official website for UC Irvine’s largest women-centric hackathon. Supported registrations, live updates, and event resources.  
+**Tools:** JavaScript, HTML/CSS, React  
+Official website for UC Irvine’s largest women-centric hackathon. Supports registrations, live updates, and event resources.  
+  
 🎉 Used by 300+ participants and updated live during the event.
+
+### [collette's-childrens-home](https://github.com/ctc-uci/cch)
+**Tools:** TypeScript, HTML/CSS, React, PostgreSQL
+Website for non-profit organization Collete's Childrens Home. Replaced paper-based system; supports tracking client forms, updating data, viewing case manager information, etc.  
+  
+📊 [Project Overview](https://medium.com/@committhechange.uci/project-overview-colettes-children-s-home-ee60b1cb42ba)
 
 ---
 
-## 🌊 Extracurriculars & Interests
+## 🌊 Activities & Interests
 
 - **Commit The Change:** Full-stack developer & Recruitment Director — building software tools to help nonprofits make their services more accessible and streamlined.
-- **VenusHacks:** Hackathon organizer — hosting inclusive hackathons for women and underrepresented voices in tech.
+- **Break Through Tech:** AI/ML Fellow
+- **VenusHacks:** Web Developer & Marketing Organizer — hosting inclusive hackathons for women and underrepresented voices in tech.
 - **Non-technical Interests:** As a lifelong California, resident I love exploring cafes, beaches, and Disneyland! 
 
 ---
