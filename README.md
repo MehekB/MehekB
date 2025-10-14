@@ -9,7 +9,7 @@ I'm Mehek, a Computer Science student at UC Irvine specializing in Intelligent S
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; C++ &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; SQL &nbsp;•&nbsp; HTML/CSS &nbsp;•&nbsp; R &nbsp;•&nbsp; MIPS Assembly
+Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; C++ &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; SQL &nbsp;•&nbsp; HTML/CSS &nbsp;•&nbsp; R &nbsp;•&nbsp; MIPS Assembly &nbsp;•&nbsp; Terraform
 
 **Frameworks/Libraries:**  
 React.js &nbsp;•&nbsp; FastAPI &nbsp;•&nbsp; Springboot &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Scikit-learn &nbsp;•&nbsp; Pandas
