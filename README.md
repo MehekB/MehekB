@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mehek!
 
-I'm Mehek, a Computer Science student at UC Irvine specializing in Intelligent Systems. Currently, I'm a SWE Intern at Disney and an AI/ML Fellow with Break Through Tech. I’m passionate about leveraging software to create impactful tech, with an interest in AI/ML and foundation as a full-stack developer.
+I'm Mehek, a Computer Science student at UC Irvine specializing in Intelligent Systems. Currently, I'm an AI/ML Fellow with Break Through Tech and a previous SWE intern at Disney! I’m passionate about leveraging software to create impactful tech, with an interest in AI/ML and foundation as a full-stack developer.
 
 ---
 
