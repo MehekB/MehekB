@@ -27,6 +27,10 @@ SDLC &nbsp;•&nbsp; Machine Learning Algorithms
 
 ## 🚀 Key Projects
 
+### [Break Through Tech](https://github.com/MehekB/Break-Through-Tech-Portfolio)
+**Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, Jupyter Notebooks, Kaggle Dataset
+AI/ML Fellow portfolio showcasing machine learning projects completed during eCornell’s Machine Learning Foundations program. Currently developing a fog prediction model with the Michael J. Fox Foundation during AI Studio.
+
 ### [venushacks-official-website](https://github.com/WICS-UCI/venushacks)
 **Tools:** JavaScript, HTML/CSS, React  
 Official website for UC Irvine’s largest women-centric hackathon. Supports registrations, live updates, and event resources.  
@@ -46,7 +50,7 @@ Website for non-profit organization Collete's Childrens Home. Replaced paper-bas
 - **Commit The Change:** Full-stack developer & Recruitment Director — building software tools to help nonprofits make their services more accessible and streamlined.
 - **Break Through Tech:** AI/ML Fellow
 - **VenusHacks:** Web Developer & Marketing Organizer — hosting inclusive hackathons for women and underrepresented voices in tech.
-- **Non-technical Interests:** As a lifelong California, resident I love exploring cafes, beaches, and Disneyland! 
+- **Non-technical Interests:** As a lifelong California resident, I love exploring cafes, beaches, and amusement parks! 
 
 ---
 
