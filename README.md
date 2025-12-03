@@ -27,9 +27,9 @@ SDLC &nbsp;•&nbsp; Machine Learning Algorithms
 
 ## 🚀 Key Projects
 
-### [Break Through Tech](https://github.com/MehekB/Break-Through-Tech-Portfolio)
+### [freeezing-of-gait-prediction-model]([https://github.com/MehekB/Break-Through-Tech-Portfolio](https://github.com/ramyaxmad/MJF-1A-Parkinson-s-Freezing-of-Gait-Prediction/tree/mehek_branch)
 **Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, Jupyter Notebooks, Kaggle Dataset
-AI/ML Fellow portfolio showcasing machine learning projects completed during eCornell’s Machine Learning Foundations program. Currently developing a fog prediction model with the Michael J. Fox Foundation during AI Studio.
+As an AI/ML Fellow with Break Through Tech, I am developing a Freezing of Gait prediction model with the Michael J. Fox Foundation during AI Studio.
 
 ### [venushacks-official-website](https://github.com/WICS-UCI/venushacks)
 **Tools:** JavaScript, HTML/CSS, React  
@@ -37,7 +37,7 @@ Official website for UC Irvine’s largest women-centric hackathon. Supports reg
   
 🎉 Used by 300+ participants and updated live during the event.
 
-### [collette's-childrens-home](https://github.com/ctc-uci/cch)
+### [collette's-childrens-home-website](https://github.com/ctc-uci/cch)
 **Tools:** TypeScript, HTML/CSS, React, PostgreSQL
 Website for non-profit organization Collete's Childrens Home. Replaced paper-based system; supports tracking client forms, updating data, viewing case manager information, etc.  
   
