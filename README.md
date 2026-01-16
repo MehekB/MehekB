@@ -27,7 +27,7 @@ SDLC &nbsp;•&nbsp; Machine Learning Algorithms
 
 ## 🚀 Key Projects
 
-### [freezing-of-gait-prediction-model](https://github.com/ramyaxmad/MJF-1A-Parkinson-s-Freezing-of-Gait-Prediction/tree/mehek_branch)
+### [freezing-of-gait-prediction-model](https://github.com/ramyaxmad/MJF-1A-Parkinson-s-Freezing-of-Gait-Prediction)
 **Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, Jupyter Notebooks, Kaggle Dataset
 As an AI/ML Fellow with Break Through Tech, I am developing a Freezing of Gait prediction model with the Michael J. Fox Foundation during AI Studio.
 
