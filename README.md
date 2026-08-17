@@ -12,7 +12,7 @@ I'm a Computer Science student at UC Irvine specializing in Intelligent Systems.
 Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; C++ &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; SQL
 
 **Frameworks/Libraries:**  
-React.js &nbsp;•&nbsp; FastAPI &nbsp;•&nbsp; Springboot &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Scikit-learn &nbsp;•&nbsp; Pandas
+React.js &nbsp;•&nbsp; FastAPI &nbsp;•&nbsp; Spring Boot &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Scikit-learn &nbsp;•&nbsp; Pandas
 
 **Tools & Infrastructure:**  
 Git &nbsp;•&nbsp; Docker &nbsp;•&nbsp; Kubernetes &nbsp;•&nbsp; Jenkins &nbsp;•&nbsp; Terraform
@@ -56,7 +56,7 @@ As an AI/ML Fellow with Break Through Tech, I am developing a Freezing of Gait p
 - **Commit the Change:** Full-stack Developer & Recruitment Director — building software for nonprofit organizations.
 - **Break Through Tech:** AI/ML Fellow — applied machine learning and model evaluation through industry-sponsored projects.
 - **VenusHacks:** Web Developer & Marketing Organizer — building and maintaining the hackathon platform.
-- **Donald Bren School of ICS:** ICS Learning Assistant - supporting students in introductory computer science coursework.
+- **Donald Bren School of ICS at UCI:** ICS Learning Assistant — supporting students in introductory computer science coursework.
 
 ---
 
